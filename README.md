@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevLegs
-- 👀 I’m interested in Cloud Engineering.
-- 🌱 I’m currently learning Cloud Engineering.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bimbolegs@gmail.com
 
